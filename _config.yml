@@ -1,0 +1,11 @@
+title: Bonly
+description: "Bonly: Receipt & Budget — legal information and support"
+lang: en
+url: "https://mustafaturkan.github.io"
+baseurl: "/bonly-legal"
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  auto_ids: true
+exclude:
+  - CHANGES.md
